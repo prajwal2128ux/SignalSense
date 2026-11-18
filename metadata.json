@@ -1,0 +1,6 @@
+{
+  "name": "SignalSense — Adaptive Traffic Signal Simulation",
+  "description": "Interactive four-way adaptive traffic signal simulation preview and console workspace for SignalSense (CP-074).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
